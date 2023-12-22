@@ -1,0 +1,6 @@
+Dec 22 2023 19:27:28
+{"type":8192,"message":"Constant FILTER_SANITIZE_STRING is deprecated","file":"C:\\xampp\\htdocs\\teja\\wp-content\\plugins\\astra-sites\\admin\\bsf-analytics\\class-bsf-analytics-stats.php","line":71}
+
+Dec 22 2023 19:27:29
+{"type":8192,"message":"Creation of dynamic property Tablesome\\Workflow_Library\\Actions\\Notion_Database::$notion_api is deprecated","file":"C:\\xampp\\htdocs\\teja\\wp-content\\plugins\\tablesome\\workflow-library\\actions\\notion-database.php","line":27}
+
